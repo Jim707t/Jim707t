@@ -10,12 +10,6 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim707t&layout=compact" />
 
 
-
-
-
-<p align="center">
-<img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-</p>
 <br>
 <br>
 <p align="center"><img src="https://metrics.lecoq.io/jim707t?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FLos_Angeles"></p align="center">
